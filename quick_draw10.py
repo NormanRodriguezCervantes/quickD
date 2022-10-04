@@ -1,4 +1,4 @@
-class_names = ['van', 'bus', 'car', 'motorbike', 'bicycle', 'ambulance', 'train', 'school_bus', 'police_car', 'rabbit']
+class_names = ['van', 'bus', 'car', 'motorbike', 'bicycle', 'ambulance', 'train', 'banana', 'dog', 'rabbit']
 
 import urllib.request
 import os 
